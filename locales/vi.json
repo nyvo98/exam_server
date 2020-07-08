@@ -1,0 +1,13 @@
+{
+	"newProduct": "{{name}} is now on market, let go and get it",
+	"upgradeLevel": "Congratulation let go invite some one to get your bonus",
+	"levelUp": "Congratulation, you've reached level {{level}}",
+	"youWin": "You win to bid {{name}} with ${{price}} (Original ${{maxPrice}})",
+	"updateBalance": "Your balance has been added {{add}}\nTotal Balance is:{{balance}}",
+	"newRef": "You've just received {{num}} when invited {{name}}",
+	"subjectNewPassword": "iBid Account - Your new password",
+	"subjectForgotpassword": "iBid Account - Forgot password",
+	"subjectVerifyEmail": "iBid Account - Verify email code",
+	"userWithdraw": "{{name}} has just withdrawn {{point}} point!",
+	"subjectRegister":"Cryoto Class - Đăng kí"
+}
